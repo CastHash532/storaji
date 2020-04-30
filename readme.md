@@ -1,3 +1,5 @@
+[![Gitpod Ready-to-Code](https://img.shields.io/badge/Gitpod-Ready--to--Code-blue?logo=gitpod)](https://gitpod.io/#https://github.com/IndomaximTechID/storaji) 
+
 ## The project is no longer maintained, but you still can use this with your own private server. Check out the development section how to install it.
 
 <p align="center">
